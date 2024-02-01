@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+NETFLIX Clone 
+-------------
+-> A Netflix clone project using React.js and the Movie Database (TMDB) API
+-> The integration of the TMDB API ensures up-to-date and comprehensive content, where React.js and the TMDB API converge to deliver a cutting-edge streaming platform
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
